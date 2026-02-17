@@ -1,0 +1,9 @@
+DESCRIPTION
+
+include:
+    current known issues
+    wanted features
+    instructions for submitting a pull requests
+    background program information (funding, sponsors, company info, etc)
+    release notes
+    repository information (includes passwords/private info not for github)
